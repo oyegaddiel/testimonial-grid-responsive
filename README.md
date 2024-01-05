@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oyegaddiel/-testimonial-grid-responsive)
+- Solution URL: [Add solution URL here](https://github.com/oyegaddiel/testimonial-grid-responsive)
 - Live Site URL: [Add live site URL here](https://testimonial-grid-responsive.vercel.app/)
 
 ## My process
