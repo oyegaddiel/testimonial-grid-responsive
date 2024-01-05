@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](![./screenshot.jpg]!(<../../Grid Project/assets/htmlSC.png>))
+(<../../Grid Project/assets/htmlSC.png>)
 
-![](![./screenshot.jpg]!(<../../Grid Project/styleSC.png>))
+(<../../Grid Project/styleSC.png>)
 
 
 ### Links
